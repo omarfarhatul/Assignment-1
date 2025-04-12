@@ -80,6 +80,21 @@ nav li a{
     background-color: rgba(13, 19, 33, 0.04);
     margin: 100px 180px;
 }
+.development-div{
+    padding: 80px 98px 80px 98px;
+    text-align: center;
+    width: 920px;
+}
+
+.development-div1{
+    padding: 0 40px 0 40px;
+}
+
+.development-title{
+    font-weight: 800;
+    font-size: 32px;
+    margin-bottom: 24px;
+}
 
 
 
