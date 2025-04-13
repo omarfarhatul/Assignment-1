@@ -105,7 +105,7 @@ nav li a{
     background-color: #FFFFFF;
     height: 280px;
     border-radius: 10px;
-    
+    margin-bottom: 50px;
 }
 .first{
     width: 440px;
@@ -119,7 +119,18 @@ nav li a{
 }
 
 .button-div{
-    margin-top: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    color:  #0D1321;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+
+.second-title{
+    font-size: 24px;
+    line-height: 36px;
+    color: #0D1321;
+    padding-right: 40px;
 }
 
 
