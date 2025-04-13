@@ -79,6 +79,7 @@ nav li a{
     width: 1125px;
     background-color: rgba(13, 19, 33, 0.04);
     margin: 100px 180px;
+    border-radius: 10px;
 }
 .development-div{
     padding: 80px 98px 80px 98px;
@@ -131,6 +132,25 @@ nav li a{
     line-height: 36px;
     color: #0D1321;
     padding-right: 40px;
+}
+
+/* Development1 system */
+.development1{
+    height: 780px;
+    width: 1125px;
+    margin: 100px 180px;
+    border-radius: 10px;
+}
+
+.development1-div{
+    text-align: center;
+}
+
+.video-div{
+    padding: 32px;
+    border: 1px solid #bfbfbf;
+    margin-top: 20px;
+    border-radius: 10px;
 }
 
 
