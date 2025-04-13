@@ -131,7 +131,7 @@ nav li a{
     font-size: 24px;
     line-height: 36px;
     color: #0D1321;
-    padding-right: 40px;
+    padding-right: 30px;
 }
 
 /* Development1 system */
@@ -144,6 +144,7 @@ nav li a{
 
 .development1-div{
     text-align: center;
+    padding: 0 100px 0 100px;
 }
 
 .video-div{
@@ -153,6 +154,12 @@ nav li a{
     border-radius: 10px;
 }
 
+.development2{
+    height: 1400px;
+    width: 1125px;
+    margin: 100px 180px;
+    border-radius: 10px;
+}
 
 
 
