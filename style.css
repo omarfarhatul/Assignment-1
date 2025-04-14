@@ -116,7 +116,7 @@ nav li a{
     font-size: 24px;
     line-height: 36px;
     color: #0D1321;
-    padding-right: 100px;
+    padding-right: 20px;
 }
 
 .button-div{
@@ -134,7 +134,7 @@ nav li a{
     padding-right: 30px;
 }
 
-/* Development1 system */
+/* Development1 style */
 .development1{
     height: 780px;
     width: 1125px;
@@ -154,6 +154,8 @@ nav li a{
     border-radius: 10px;
 }
 
+/* Development2 style */
+
 .development2{
     height: 1400px;
     width: 1125px;
@@ -161,7 +163,40 @@ nav li a{
     border-radius: 10px;
 }
 
+.target-div{
+    width: 1150px;
+    height: 370px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    align-items: center;
+}
 
+.target1-div, .target2-div, .target3-div{
+    width: 370px;
+    height: 300px;
+}
+
+.target-div1, .target-div2, .target-div3{
+    background-color: rgba(183, 79, 53, 0.05);
+    margin-right: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.target-div2{
+    background-color: rgba(0, 76, 232, 0.05);
+}
+
+.target-div3{
+    background-color: rgba(255, 223, 0, 0.05);
+}
+
+.target-learn{
+    font-size: 16px;
+    text-decoration: underline;
+    font-weight: 600;
+}
 
 
 
