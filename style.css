@@ -157,7 +157,7 @@ nav li a{
 /* Development2 style */
 
 .development2{
-    height: 1450px;
+    height: 1600px;
     width: 1150px;
     margin: 100px 180px;
     border-radius: 10px;
@@ -199,6 +199,9 @@ nav li a{
 }
 
 /* next target */
+.development-next{
+    margin-top: 70px;
+}
 
 .next-target{
     width: 1150px;
@@ -207,7 +210,7 @@ nav li a{
 }
 
 .next-target1{
-    height: 230px;
+    height: 210px;
     border: 1px solid rgb(182, 177, 177);
     margin-bottom: 30px;
     border-radius: 10px;
@@ -224,4 +227,35 @@ nav li a{
     margin: 40px 0px 0px 15px;
 }
 
+/* Support section */
+.support{
+    width: 1150px;
+    height: 315px;
+    margin-top: 50px;
+    margin: 100px 180px;
+    background-position: center;
+    background-size: cover;
+    background-image: url("image/handshake.jpg");
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.support-div{
+    width: 1050px;
+    height: 190px;
+    background-color: red;
+}
+
+.support-title{
+    font-size: 32px;
+    color: white;
+}
+
+.support-details{
+    width: 610px;
+    height: 55px;
+    
+}
 
