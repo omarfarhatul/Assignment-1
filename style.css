@@ -157,8 +157,8 @@ nav li a{
 /* Development2 style */
 
 .development2{
-    height: 1400px;
-    width: 1125px;
+    height: 1450px;
+    width: 1150px;
     margin: 100px 180px;
     border-radius: 10px;
 }
@@ -198,6 +198,30 @@ nav li a{
     font-weight: 600;
 }
 
+/* next target */
 
+.next-target{
+    width: 1150px;
+    height: 710px;
+    margin-top: 50px;
+}
+
+.next-target1{
+    height: 230px;
+    border: 1px solid rgb(182, 177, 177);
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.react-target{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.img-div{
+    margin: 40px 0px 0px 15px;
+}
 
 
