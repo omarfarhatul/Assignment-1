@@ -284,3 +284,31 @@ input[type="Submit"]{
 }
 
 /* Footer style */
+footer{
+    width: 1520px;
+    height: 100px;
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-panel{
+    display: flex;
+    justify-content: space-between;
+    width: 1150px;
+    height: 40px;
+}
+
+.footer-des{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footer-img{
+    margin-top: 10px;
+}
+
+.image{
+    padding-left: 10px;
+}
