@@ -239,13 +239,15 @@ nav li a{
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    padding-top: 35px;
 }
 
 .support-div{
     width: 1050px;
     height: 190px;
-    background-color: red;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
 
 .support-title{
@@ -256,6 +258,29 @@ nav li a{
 .support-details{
     width: 610px;
     height: 55px;
-    
 }
 
+.support-des{
+    color: white;
+}
+
+form{
+    margin-top: 20px;
+    display: flex;
+    gap: 15px;
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+}
+input[type="Submit"]{
+    height: 55px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* Footer style */
